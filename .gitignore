@@ -1,0 +1,5 @@
+cypress/videos
+cypress/results
+#Dependency Directories
+node_modules/
+package-lock.json
